@@ -1,3 +1,5 @@
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/wizardigor/DIO-SnakeGame)
+
 # DIO-SnakeGame
 ## Bootcamp - HTML Web Developer
  Terceiro projeto DIO - Jogo da cobrinha
